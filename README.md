@@ -8,12 +8,19 @@ This project helped me strengthen my skills in data modeling, DAX time intellige
 🔍 What the Dashboard Covers
 
 ✔ Closing price trends (daily, monthly, yearly)
+
 ✔ Volume analysis with YTD & MTD metrics
+
 ✔ Dividend amount & Dividend Yield calculations
+
 ✔ Rolling 12-month return percentage
+
 ✔ 52-week high tracking
+
 ✔ Previous month & previous year return comparisons
+
 ✔ Interactive filters, drill-through visuals, and KPI cards
+
 
 🧠 Tech Stack Used
 
